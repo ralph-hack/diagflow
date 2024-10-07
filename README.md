@@ -16,7 +16,9 @@ https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a
    - move it to raljoach\tools folder - done
    - run install.sh in google cli folder - done
 5. In a new terminal window, run 
-   gcloud init (will redirect to https://cloud.google.com/sdk/auth_success)
+   gcloud init - done (will redirect to https://cloud.google.com/sdk/auth_success)
 
 6. Setup authentication for REST
-   https://cloud.google.com/docs/authentication/rest
+   https://cloud.google.com/docs/authentication/rest - done
+
+
