@@ -23,3 +23,4 @@ https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a
 
 7. gcloud auth login
 8. gcloud auth application-default login
+   gcloud auth application-default set-quota-project PROJECT_ID
