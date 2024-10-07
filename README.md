@@ -10,6 +10,9 @@ Node.js client library for DiagFlow: <br/>
 https://cloud.google.com/dialogflow/es/docs/reference/libraries/nodejs
 https://cloud.google.com/dialogflow/es/docs/reference/rest/v2-overview
 
+DiagFlow basics: <br/>
+https://cloud.google.com/dialogflow/es/docs/basics
+
 1. Set up a Google Cloud Console Account - already have
 2. Select an existing Google Cloud project - done
 3. Enable Diagflow API within console.google.cloud.com - done
