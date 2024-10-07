@@ -9,4 +9,7 @@ https://cloud.google.com/dialogflow/es/docs/quick/build-agent
    - install python - done
    - where python3 (to find location and verify install) - done
    - download google cli tar - done
-5. 
+   - move it to raljoach\tools folder - done
+   - run install.sh in google cli folder - done
+5. In a new terminal window, run 
+   gcloud init
