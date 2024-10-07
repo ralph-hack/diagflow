@@ -33,7 +33,8 @@ https://cloud.google.com/dialogflow/es/docs/basics
 
 
 Follow: <br/>
-https://cloud.google.com/dialogflow/es/docs/quick/build-agent
+https://cloud.google.com/dialogflow/es/docs/quick/build-agent <br/>
+https://cloud.google.com/dialogflow/es/docs/intents-training-phrases#annotation
 
 9. [Diagflow console](https://dialogflow.cloud.google.com/) -> Create an Agent
 10. [Import Example File to Your Agent](https://cloud.google.com/dialogflow/es/docs/quick/build-agent#import-the-example-file-to-your-agent)
