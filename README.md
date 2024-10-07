@@ -16,4 +16,5 @@ https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a
    - move it to raljoach\tools folder - done
    - run install.sh in google cli folder - done
 5. In a new terminal window, run 
-   gcloud init
+   gcloud init (will redirect to https://cloud.google.com/sdk/auth_success)
+
