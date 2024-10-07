@@ -3,8 +3,7 @@ Following these instructions:
 https://cloud.google.com/dialogflow/es/docs/quick/build-agent
 
 DiagFlow console can be accessed here: <br/>
-https://console.dialogflow.com/api-client/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a/integrations
-https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a/integrations
+[DiagFlow Console](https://dialogflow.cloud.google.com/)
 
 Node.js client library for DiagFlow: <br/>
 https://cloud.google.com/dialogflow/es/docs/reference/libraries/nodejs
@@ -29,5 +28,7 @@ https://cloud.google.com/dialogflow/es/docs/basics
    https://cloud.google.com/docs/authentication/rest - done
 
 7. gcloud auth login
-8. gcloud auth application-default login
+8. gcloud auth application-default login <br/>
    gcloud auth application-default set-quota-project PROJECT_ID
+
+9. Diagflow console -> Create an Agent
