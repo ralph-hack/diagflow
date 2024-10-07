@@ -36,3 +36,4 @@ Follow: <br/>
 https://cloud.google.com/dialogflow/es/docs/quick/build-agent
 
 9. [Diagflow console](https://dialogflow.cloud.google.com/) -> Create an Agent
+10. [Import Example File to Your Agent)[https://cloud.google.com/dialogflow/es/docs/quick/build-agent#import-the-example-file-to-your-agent]
