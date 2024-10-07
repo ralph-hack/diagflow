@@ -2,9 +2,12 @@
 Following these instructions:
 https://cloud.google.com/dialogflow/es/docs/quick/build-agent
 
-DiagFlow console can be accessed here:
+DiagFlow console can be accessed here: <br/>
 https://console.dialogflow.com/api-client/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a/integrations
 https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a/integrations
+
+Node.js client library for DiagFlow: <br/>
+https://cloud.google.com/dialogflow/es/docs/reference/libraries/nodejs
 
 1. Set up a Google Cloud Console Account - already have
 2. Select an existing Google Cloud project - done
