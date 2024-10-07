@@ -31,4 +31,8 @@ https://cloud.google.com/dialogflow/es/docs/basics
 8. gcloud auth application-default login <br/>
    gcloud auth application-default set-quota-project PROJECT_ID
 
+
+Follow:
+https://cloud.google.com/dialogflow/es/docs/quick/build-agent
+
 9. [Diagflow console](https://dialogflow.cloud.google.com/) -> Create an Agent
