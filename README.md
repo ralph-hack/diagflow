@@ -21,4 +21,4 @@ https://dialogflow.cloud.google.com/#/agent/a4441a1f-952d-4c3c-90e8-fe2bf5ff6d6a
 6. Setup authentication for REST
    https://cloud.google.com/docs/authentication/rest - done
 
-
+7. gcloud auth login
