@@ -8,3 +8,5 @@ https://cloud.google.com/dialogflow/es/docs/quick/build-agent
 4. Install google cloud cli
    - install python - done
    - where python3 (to find location and verify install) - done
+   - download google cli tar - done
+5. 
