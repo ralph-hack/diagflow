@@ -12,6 +12,7 @@ https://cloud.google.com/dialogflow/es/docs/reference/rest/v2-overview
 DiagFlow basics: <br/>
 https://cloud.google.com/dialogflow/es/docs/basics
 
+Day 1
 1. Set up a Google Cloud Console Account - already have
 2. Select an existing Google Cloud project - done
 3. Enable Diagflow API within console.google.cloud.com - done
@@ -39,4 +40,8 @@ https://cloud.google.com/dialogflow/es/docs/intents-training-phrases#annotation
 9. [Diagflow console](https://dialogflow.cloud.google.com/) -> Create an Agent
 10. [Import Example File to Your Agent](https://cloud.google.com/dialogflow/es/docs/quick/build-agent#import-the-example-file-to-your-agent)
 11. [productionization best practices](https://cloud.google.com/dialogflow/es/docs/best-practices#prod)
-12. [Fulfillment quickstart](https://cloud.google.com/dialogflow/es/docs/best-practices#prod)
+
+Day 2
+1. [Fulfillment quickstart](https://cloud.google.com/dialogflow/es/docs/best-practices#prod)
+
+ 
