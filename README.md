@@ -54,5 +54,13 @@ https://cloud.google.com/dialogflow/es/docs/fulfillment-inline-editor
 Other interesting references:
 https://cloud.google.com/dialogflow/es/docs/how
 https://cloud.google.com/dialogflow/es/docs/tutorials
+https://cloud.google.com/dialogflow/es/docs/voice-agent-design
+https://cloud.google.com/dialogflow/es/docs/agents-design
+https://cloud.google.com/dialogflow/es/docs/best-practices
+https://cloud.google.com/dialogflow/es/docs/agents-versions
+https://cloud.google.com/dialogflow/es/docs/agents-prebuilt
+https://cloud.google.com/dialogflow/es/docs/agents-manage
+https://cloud.google.com/dialogflow/es/docs/agents-overview
+https://cloud.google.com/dialogflow/es/docs/knowledge-connectors
 
  
