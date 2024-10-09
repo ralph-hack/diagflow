@@ -47,5 +47,7 @@ https://cloud.google.com/dialogflow/es/docs/fulfillment-overview
 https://cloud.google.com/dialogflow/es/docs/fulfillment-inline-editor
 
 1. [Fulfillment quickstart](https://cloud.google.com/dialogflow/es/docs/best-practices#prod)
+2. [Quickstart: Interactions with an integration](https://cloud.google.com/dialogflow/es/docs/quick/integration)
+3. [Quickstart: Interactions with the API](https://cloud.google.com/dialogflow/es/docs/quick/api)
 
  
