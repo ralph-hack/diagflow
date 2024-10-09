@@ -44,6 +44,7 @@ https://cloud.google.com/dialogflow/es/docs/intents-training-phrases#annotation
 Day 2
 References: <br/>
 https://cloud.google.com/dialogflow/es/docs/fulfillment-overview
+https://cloud.google.com/dialogflow/es/docs/fulfillment-inline-editor
 
 1. [Fulfillment quickstart](https://cloud.google.com/dialogflow/es/docs/best-practices#prod)
 
